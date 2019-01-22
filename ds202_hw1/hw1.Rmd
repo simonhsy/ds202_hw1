@@ -1,0 +1,29 @@
+---
+title: "Homework1"
+author: "Hongsheng Yin"
+date: "January 17, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+For what I think, <em>Data science</em> is the combination of <b>statistics and computer science</b>. Data science will be very useful in out future life. There are many place that have already used in our life. Like the advertisement we see everyday on the websites, they are chose for your daily preference. And Data Science will be more and more important role in the furtue.
+<img src="https://cdn-images-1.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png">
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
