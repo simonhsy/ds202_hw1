@@ -1,0 +1,5 @@
+Partner Name: Jacob Shoemaker
+GitHub username: jshoemaker2249
+Last commit: 21e5779266c4f99122c87fc87703e07e9f3d71a6
+No issues with knitting Hongsheng's hw1.Rmd
+One tip: make last commit info easier to find
